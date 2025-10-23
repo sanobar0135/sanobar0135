@@ -13,7 +13,7 @@
 📚 Learning
 - Python & Machine Learning 
 - Generative AI (LLMs & Prompting)  
-- Web Development (HTML, CSS, JS, React.js)
+- Web Development (HTML, CSS, React.js)
 - project management and team work  
 
 ---
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Gen+AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
