@@ -6,8 +6,6 @@
 
 🚀 **Currently Working On:**  
 - 🤖 **Machine Learning Project** — exploring data preprocessing, training models, and evaluating performance.  
-- 💡 **Smart Hackathon Team Project** — building innovative internship application for university with my team.  
-
 
 
 📚 Learning
